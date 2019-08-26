@@ -1,5 +1,5 @@
 # SPY_EMA_Algo
-Written in Python
+Written in Python | Empowered by QuantConnect (Not an advertisement!)
 
 # DISCLAIMER:
 This is neither an advocate nor a promotion for retail trading, nor QuantConnect. I am not a certified finance professional. Trading losses can exceed initial deposits, and one should seek the advice of a certified professional even before opening an account.
