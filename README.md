@@ -11,7 +11,7 @@ Using QuantConnect's LEAN Engine, I created a simple implementation of an EMA Cr
 |Some Key Stats             |Result   |
 | ---                       | ---     |
 |Total Trades:              | 73      |
-|Compounding Annual Return: | 6.681%  |
+|Compounding Annual Return: | 6.635%  |
 |MaximumDrawdown:           | 21.000% |
 |Net Profit:                | 111.587%|
 |Sharpe Ratio:              | 0.46    |
@@ -21,4 +21,4 @@ Using QuantConnect's LEAN Engine, I created a simple implementation of an EMA Cr
 |Annual Variance:           | 0.019   |
 
 
-A more detailed breakdown of the results can be found [here](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_d7a8213076d4e559d0911a12d25ef6d3.html).
+A more detailed breakdown of the results can be found [here](https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_0fd0cfbba6c2214b4a8584b99afc2875.html).
